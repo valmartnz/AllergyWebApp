@@ -1,6 +1,6 @@
 # AllergyWebApp  
   
-Valerie:  
+# Valerie:  
 Worked on a simple menu prototype.  
 Focused on making case 3 work, which implements the Tesseract OCR and Leptonica library.  
   
