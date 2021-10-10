@@ -9,7 +9,7 @@ Will not run if Tesseract OCR and Leptonica library are not installed, so only w
   
 
 ## Iteration 2
-**All Authors:**
+**All Authors:**  
 Worked on separate webpages based off the mockup from Iteration 1 as HTML files before converting them into PHP files.  
 
 **To do for next Iteration:**  
